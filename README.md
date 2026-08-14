@@ -162,8 +162,6 @@ Ce projet est développé par **Grégoire Dubois**, développeur Java backend av
 - ~2 ans de développement Java/Spring Boot
 - ~10 ans de gestion de sinistres en assurance IARD (MRH, MRI, MRP, flottes auto)
 
-Cette combinaison rare cible les **départements IT des assureurs**, les **éditeurs de logiciels assurance** (Guidewire, Sapiens, Prima Solutions) et les **InsurTech**.
-
 ---
 
 ## 📬 Contact
