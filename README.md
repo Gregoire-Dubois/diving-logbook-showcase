@@ -8,7 +8,7 @@ Application web de carnet de plongée numérique, développée en fullstack Java
 
 ## Objectif du projet
 
-The Dive Logbook permet aux plongeurs de consigner, consulter et gérer leurs plongées en ligne. L'application cible à terme les clubs de plongée et les moniteurs FFESSM/PADI, avec un modèle commercial basé sur des abonnements (Stripe).
+The Dive Logbook permet aux plongeurs de consigner, consulter et gérer leurs plongées en ligne. L'application cible à terme les clubs de plongée.
 
 **URL de démonstration :** `http://51.210.42.119` *(HTTPS en cours de configuration)*
 
