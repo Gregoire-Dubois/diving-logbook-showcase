@@ -1,4 +1,4 @@
-# 🤿 The Dive Logbook
+# The Dive Logbook
 
 Application web de carnet de plongée numérique, développée en fullstack Java/Angular dans le cadre d'un projet portfolio.
 
@@ -6,7 +6,7 @@ Application web de carnet de plongée numérique, développée en fullstack Java
 
 ---
 
-## 🎯 Objectif du projet
+## Objectif du projet
 
 The Dive Logbook permet aux plongeurs de consigner, consulter et gérer leurs plongées en ligne. L'application cible à terme les clubs de plongée et les moniteurs FFESSM/PADI, avec un modèle commercial basé sur des abonnements (Stripe).
 
@@ -44,7 +44,7 @@ The Dive Logbook permet aux plongeurs de consigner, consulter et gérer leurs pl
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────┐
@@ -73,7 +73,7 @@ The Dive Logbook permet aux plongeurs de consigner, consulter et gérer leurs pl
 
 ---
 
-## ✅ Fonctionnalités implémentées
+## Fonctionnalités implémentées
 
 ### Authentification
 - Inscription avec validation email (RegEx)
@@ -105,7 +105,7 @@ The Dive Logbook permet aux plongeurs de consigner, consulter et gérer leurs pl
 
 ---
 
-## 🔐 Sécurité
+## Sécurité
 
 - Authentification stateless par **JWT**
 - Mots de passe hashés avec **BCrypt**
@@ -117,7 +117,7 @@ The Dive Logbook permet aux plongeurs de consigner, consulter et gérer leurs pl
 
 ---
 
-## 🚀 Déploiement
+## Déploiement
 
 L'application est déployée via **Docker Compose** avec 3 containers :
 
@@ -139,7 +139,7 @@ feat/* ou fix/*
 
 ---
 
-## 🗺️ Roadmap V2
+## Roadmap V2
 
 - [ ] Page modification de profil
 - [ ] Validation complète Problem Details RFC 7807
@@ -156,7 +156,7 @@ feat/* ou fix/*
 
 ---
 
-## 👨‍💻 Profil développeur
+## Profil développeur
 
 Ce projet est développé par **Grégoire Dubois**, développeur Java backend avec une double expertise :
 - ~2 ans de développement Java/Spring Boot
